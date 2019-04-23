@@ -1,2 +1,5 @@
 # Hello World
-My first repository on GitHub.
+
+It's my first repository on GitHub. 
+
+I'm really excited to start my coding-life.
